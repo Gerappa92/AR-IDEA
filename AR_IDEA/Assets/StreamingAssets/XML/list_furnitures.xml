@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFurniture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Furniture>
+    <Name>BILLY</Name>
+    <Price>159</Price>
+    <Dimensions>80x28x202cm</Dimensions>
+    <Describe>Regulowane pó³ki; mo¿liwoœæ dopasowania przestrzeni miêdzy pó³kami do w³asnych potrzeb</Describe>
+	<Number>192.477.04</Number>
+  </Furniture>
+  <Furniture>
+    <Name>VEBEROD</Name>
+    <Price>299</Price>
+    <Dimensions>88x53cm</Dimensions>
+    <Describe>£awa, naturalny</Describe>
+	<Number>503.433.31</Number>
+  </Furniture>
+  <Furniture>
+    <Name>VEDBO</Name>
+    <Price>899</Price>
+    <Dimensions> </Dimensions>
+    <Describe>Fotel/wysokie oparcie, Gunnared ciemnoszary</Describe>
+	<Number>803.411.75</Number>
+  </Furniture>
+  <Furniture>
+    <Name>SVALNAS</Name>
+    <Price>1280</Price>
+    <Dimensions>193x35x93cm</Dimensions>
+    <Describe>opis</Describe>
+	<Number>491.844.70</Number>
+  </Furniture>
+  <Furniture>
+    <Name>STRANDMON</Name>
+    <Price>799</Price>
+    <Dimensions> 193x35x93cm</Dimensions>
+    <Describe>Mo¿esz siê naprawdê rozluŸniæ i wygodnie zrelaksowaæ, poniewa¿ wysokie oparcie fotela zapewnia dodatkowe podparcie dla karku.</Describe>
+	<Number>903.618.94</Number>
+  </Furniture>
+  <Furniture>
+    <Name>NODEBO</Name>
+    <Price>1199</Price>
+    <Dimensions>170x240cm</Dimensions>
+    <Describe>Rêcznie wi¹zane przez wykwalifikowanych rzemieœlników, ka¿dy dywan jest unikalny. Wykonane w Indiach w zorganizowanych oœrodkach tkackich, z dobrymi warunkami pracy i godziwymi p³acami.</Describe>
+	<Number>903.723.31</Number>
+  </Furniture>
+  <Furniture>
+    <Name>IVAR</Name>
+    <Price>1277</Price>
+    <Dimensions>219x30x226cm</Dimensions>
+    <Describe>Surowe lite drewno to wytrzyma³y, naturalny materia³, który bêdzie jeszcze bardziej odporny i ³atwy w utrzymaniu, jeœli powierzchniê pokryjesz olejem lub woskiem.</Describe>
+	<Number>392.174.85</Number>
+  </Furniture>
+  <Furniture>
+    <Name>EKERO</Name>
+    <Price>499</Price>
+    <Dimensions>170x240cm</Dimensions>
+    <Describe>Dwustronna poduszka zapewnia plecom miêkkie oparcie. Mo¿na u¿ywaæ obustronnie.</Describe>
+	<Number>002.628.79</Number>
+  </Furniture>
+  <Furniture>
+    <Name>BESTA</Name>
+    <Price>1777</Price>
+    <Dimensions>180x42x192cm</Dimensions>
+    <Describe>Dzwiczki i fronty szuflad dostêpne s¹ w ró¿nych kolorach i wykoñczeniach, dziêki czemu ³atwo nadasz meblom osobisty charakter.</Describe>
+	<Number>192.477.04</Number>
+  </Furniture>
+</ArrayOfFurniture>
